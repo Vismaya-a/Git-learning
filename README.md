@@ -1,5 +1,5 @@
 # Structure of a readme file
-##follow the steps to maintain good structure for readme
+## follow the steps to maintain good structure for readme
 
 #main heading
 ##sub heading
